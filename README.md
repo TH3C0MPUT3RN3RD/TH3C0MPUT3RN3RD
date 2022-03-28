@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH3C0MPUT3RN3RD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-###Tecnologias que mais utilizo para desenvolvimento
+### Tecnologias que mais utilizo para desenvolvimento
 
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
