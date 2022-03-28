@@ -18,6 +18,15 @@
 [![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
+### Sistemas operacionais que utilizo:
+
+[![Blog](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/Windows_98-008080?style=for-the-badge&logo=windows-95&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white)]()
+
+
+
 ### Link para o meu site de desenvolvimento de jogos. Aqui você poderá acompanhar o lançamento de novos títulos.
 
 [![Blog](https://img.shields.io/badge/1337Games.ga-yes-green.svg)](https://www.1337games.ga/)
